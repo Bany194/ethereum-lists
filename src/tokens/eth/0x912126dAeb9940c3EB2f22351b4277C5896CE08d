@@ -1,0 +1,26 @@
+{
+  "symbol": "TGT",
+  "name": "Twogap Token",
+  "type": "ERC20",
+  "address": "0x912126dAeb9940c3EB2f22351b4277C5896CE08d",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "twogap.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "contact@twogap.com", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/twogapofficial/",
+    "forum": "",
+    "github": "https://github.com/twogap",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/twogap/",
+    "reddit": "https://www.reddit.com/r/Twogap",
+    "slack": "",
+    "telegram": "https://t.me/twogap",
+    "twitter": "https://twitter.com/twogap_official",
+    "youtube": "https://www.youtube.com/channel/UCOpERvhurE8X4_jShBujWKg/featured"
+  }
+}
